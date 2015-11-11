@@ -1,0 +1,2 @@
+team = Team.findteam("1993 CHI")
+team.season.set_roster_stats_opening_day(786,456,19903,3668,7222,137,456,3531,6766,1623,2162,1195,17052,2587,17748,2325,14320,673,38940,464,31367,1076,9256,1603,9096,39.7,27.9,67.8,9.4,6.4,15.6,23.6,172.8,65.8,88.804,["B.J. Armstrong","Bill Cartwright","Jo Jo English","Horace Grant","Michael Jordan","Stacey King","Rodney McCray","John Paxson","Will Perdue","Scottie Pippen","Trent Tucker","Corey Williams","Scott Williams"])
