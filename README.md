@@ -28,3 +28,8 @@ Only one season of one team and one season for one player have been
 put in the respository as there are thousands of files.  They show how
 the setup works.
 
+These files are read into 'test.rb' by requiring the 'teams.all.rb' and
+'players.all.rb' files.  Basic commands follow to cycle through each
+of the teams read in and print out their name and win-loss record,
+and to cycle through each player and print his name.
+
